@@ -29,3 +29,6 @@ early death.
 |------|-------------|
 | `lefthandedness_analysis.ipynb` | Full annotated Jupyter notebook |
 | `lefthandedness_report.pdf` | Presentation-style project report |
+
+## Tableau Dashboard
+[View Interactive Dashboard](https://public.tableau.com/views/Left-RightHandednessDeathAgeAnalysis/Dashboard1)
